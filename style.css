@@ -1,3 +1,12 @@
 body {
-
+ background-color: teal;
+}
+h5{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+img{
+    width: 75%
+}
 }
